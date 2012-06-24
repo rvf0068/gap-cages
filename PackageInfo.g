@@ -132,7 +132,7 @@ Persons := [
     FirstNames    := "Rafael",
     IsAuthor      := true,
     Email         := "rafaelv@uaeh.edu.mx",
-    WWWHome       := "http://www/~rafael",
+    WWWHome       := "http://rvfblog.wordpress.com",
   )
 # provide such a record for each author and/or maintainer ...#,
 
@@ -168,9 +168,9 @@ Status := "dev",
 ##  and updating of the package in the GAP distribution.
 #
 README_URL := 
-  "http://www/cages/README.cages",
+  "https://github.com/rvf0068/gap-cages/raw/master/README",
 PackageInfoURL := 
-  "http://www/cages/PackageInfo.g",
+  "https://github.com/rvf0068/gap-cages/raw/master/PackageInfo.g",
 
 ##  Here you  must provide a short abstract explaining the package content 
 ##  in HTML format (used on the package overview Web page) and an URL 
@@ -187,7 +187,7 @@ AbstractHTML :=
    with constructions of cages in  <span class=\"pkgname\">GAP</span> \
    package.",
 
-PackageWWWHome := "http://www/cages",
+PackageWWWHome := "https://github.com/rvf0068/gap-cages",
                
 ##  Here is the information on the help books of the package, used for
 ##  loading into GAP's online help and maybe for an online copy of the 
